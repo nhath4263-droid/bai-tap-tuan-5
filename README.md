@@ -165,4 +165,4 @@ Overall, this project highlights the importance of distributed search engines li
 ---
 Demo https://youtu.be/5XAG6UoSnZA
 
-Would you like me to add a short **Java or Python code example** showing how to index and search logs with Elasticsearch (so it matches your project’s technical side)?
+
